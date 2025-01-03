@@ -1,0 +1,1 @@
+Developing a system to digitize answer scripts using Deep Learning & OCR reduces time and tedium. It segments and enhances semantic content in scanned documents, converting images to text efficiently.
